@@ -32,8 +32,8 @@ function disclaimer {
 setterm --background red
 
 printf "
-  :: Disclaimer: Developers assume no liability and are not    ::   
-  :: responsible for any misuse or damage caused by Droid-Info ::   "
+     :: Disclaimer: Developers assume no liability and are not    ::    
+     :: responsible for any misuse or damage caused by Droid-Info ::    "
 setterm --background black
 echo ""
 echo ""
