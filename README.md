@@ -40,26 +40,26 @@ Ver información de la bateria, Reproducir Musica, Activar/Desactivar Wifi, entr
 
         7.- Clonar el Repositorio de Droid-Info.
 
-              $ git clone https://github.com/JRIC2002/Droid-Info
-              $ cd Droid-Info
+              * git clone https://github.com/JRIC2002/Droid-Info
+              * cd Droid-Info
 
         8.- Dale permisos a los archivos
             "Droid-Info" y "install.sh" con el comando chmod +x :
             EJEMPLO :
 
-              $ chmod +x Droid-Info
-              $ chmod +x install.sh
+              * chmod +x Droid-Info
+              * chmod +x install.sh
               
         9.- Ejecutar el archivo "install.sh" como :
 
-              $ bash install.sh
-              $ ./install.sh
+              * bash install.sh
+              * ./install.sh
 
         10.- Una vez que la instalacion termine, ya podrás
            ejecutar el script "Droid-Info" como :
 
-              $ bash Droid-Info
-              $ ./Droid-Info
+              * bash Droid-Info
+              * ./Droid-Info
 
 
 NOTA IMPORTANTE : No me hago responsable por el mal uso que le den a este script.
