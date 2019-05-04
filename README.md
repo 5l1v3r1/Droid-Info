@@ -15,19 +15,19 @@ Ver información de la bateria, Reproducir Musica, Activar/Desactivar Wifi, entr
 
 >> PROCESO DE INSTALACION.
 
-        1. Descargar desde PlayStore la app "Termux-Api"
+        1.- Descargar desde PlayStore la app "Termux-Api"
            (Termux-Api es un complemento de Termux)
 
-        2. Una vez que lo tengas descargado.
+        2.- Una vez que lo tengas descargado.
            Ve a Ajustes del Dispositivo - Aplicaciones.
 
-        3. Luego busca la app que instalaste anteriormente
+        3.- Luego busca la app que instalaste anteriormente
            "Termux-Api"
 
-        4. Haz click en la app "Termux-Api", despues haz click
+        4.- Haz click en la app "Termux-Api", despues haz click
            en la opcion "Permisos"
 
-        5. Dale todos los permisos a la App:
+        5.- Dale todos los permisos a la App:
               * Contactos <=> on
               * Camara    <=> on
               * Microfono <=> on
@@ -35,26 +35,26 @@ Ver información de la bateria, Reproducir Musica, Activar/Desactivar Wifi, entr
               * Telefono  <=> on
               * Ubicacion <=> on
 
-        6. Abre Termux.
+        6.- Abre Termux.
 
-        7. Clonar el Repositorio de Droid-Info.
+        7.- Clonar el Repositorio de Droid-Info.
 
               $ git clone https://github.com/JRIC2002/Droid-Info
               $ cd Droid-Info
 
-        8. Dale permisos a los archivos
+        8.- Dale permisos a los archivos
            "Droid-Info" "install.sh" con el comando chmod +x :
            EJEMPLO :
 
               $ chmod +x Droid-Info
               $ chmod +x install.sh
               
-        9. Ejecutar el archivo "install.sh" como :
+        9.- Ejecutar el archivo "install.sh" como :
 
               $ bash install.sh
               $ ./install.sh
 
-        10. Una vez que la instalacion termine, ya podrás
+        10.- Una vez que la instalacion termine, ya podrás
            ejecutar el script "Droid-Info" como :
 
               $ bash Droid-Info
