@@ -28,6 +28,7 @@ Ver información de la bateria, Reproducir Musica, Activar/Desactivar Wifi, entr
            en la opcion "Permisos"
 
         5.- Dale todos los permisos a la App:
+
               * Contactos <=> on
               * Camara    <=> on
               * Microfono <=> on
@@ -43,8 +44,8 @@ Ver información de la bateria, Reproducir Musica, Activar/Desactivar Wifi, entr
               $ cd Droid-Info
 
         8.- Dale permisos a los archivos
-           "Droid-Info" "install.sh" con el comando chmod +x :
-           EJEMPLO :
+            "Droid-Info" y "install.sh" con el comando chmod +x :
+            EJEMPLO :
 
               $ chmod +x Droid-Info
               $ chmod +x install.sh
