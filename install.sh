@@ -1,5 +1,10 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
+# [*] Name of the Script: Droid-Info
+# [*] Description: "See More Information About the Operating System"
+# [*] Author: JRIC2002
+# [*] Date: 14/12/2018
+
 #COLORS
         export black='\033[1;30m'
         export red='\033[1;31m'
