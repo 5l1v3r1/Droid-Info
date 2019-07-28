@@ -45,10 +45,9 @@ echo ""
 
 }
 
+#OPCIONES
 
 function opciones {
-
-#OPCIONES
 
 sleep 1
 
