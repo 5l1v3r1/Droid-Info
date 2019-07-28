@@ -22,10 +22,10 @@ printf "$cyan[*]$green Installing Packages...$white\n"
 echo ""
 sleep 3
 
-pkg install termux-api
-pkg install neofetch
-pkg install util-linux
-pkg install htop
+pkg install termux-api -y
+pkg install neofetch -y
+pkg install util-linux -y
+pkg install htop -y
 
 sleep 2
 echo ""
