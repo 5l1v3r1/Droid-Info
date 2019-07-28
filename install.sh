@@ -18,7 +18,7 @@
 #INSTALACION DE PAQUETES
 
 echo ""
-printf "$cyan[*]$green Instalando paquetes...$white\n"
+printf "$cyan[*]$green Installing Packages...$white\n"
 echo ""
 sleep 3
 
@@ -30,7 +30,7 @@ pkg install htop
 sleep 2
 echo ""
 
-printf "$blue		   >> Instalacion Completa <<$white\n"
+printf "$blue		   >> Installation Complete <<$white\n"
 echo ""
 echo ""
 
@@ -52,10 +52,10 @@ $cyan.:.:.$white Description: See More Information About the Operating System$cy
 	echo ""
 
 	sleep 1
-	printf "$cyan[$white\e0#$cyan]$magenta Desea iniciar Droid-Info?$white\n"
+	printf "$cyan[$white\e0#$cyan]$magenta You want to start Droid-Info:$white\n"
 	echo ""
 	sleep 1
-	printf "$green       [$white\e001$green]$yellow Si$white\n"
+	printf "$green       [$white\e001$green]$yellow Yes$white\n"
 	echo ""
 	printf "$green       [$white\e002$green]$yellow No$white\n"
 	echo ""
