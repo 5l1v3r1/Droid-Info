@@ -30,11 +30,11 @@ Ver información de la bateria, Reproducir Musica, Activar/Desactivar Wifi, entr
         5.- Dale todos los permisos a la App:
 
               * Contactos <=> on
-              * Camara    <=> on
-              * Microfono <=> on
+              * Cámara    <=> on
+              * Micrófono <=> on
               * SMS       <=> on
-              * Telefono  <=> on
-              * Ubicacion <=> on
+              * Teléfono  <=> on
+              * Ubicación <=> on
 
         6.- Abre Termux.
 
@@ -50,13 +50,13 @@ Ver información de la bateria, Reproducir Musica, Activar/Desactivar Wifi, entr
               * chmod +x Droid-Info
               * chmod +x install.sh
               
-        9.- Ejecutar el archivo "install.sh" como :
+        9.- Ejecutar el archivo "install.sh".
 
               * bash install.sh
               * ./install.sh
 
         10.- Una vez que la instalacion termine, ya podrás
-           ejecutar el script "Droid-Info" como :
+           ejecutar el script "Droid-Info".
 
               * bash Droid-Info
               * ./Droid-Info
