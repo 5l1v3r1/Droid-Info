@@ -8,7 +8,7 @@
                      .:.:. Script encoded by: @JRIC2002 .:.:.
       .:.:. Description: See More Information About the Operating System .:.:.
 
-Droid-Info es un script que te muestra opciones, como:
+Droid-Info es un script que te ofrece opciones, como:
 Ver información de la bateria, Reproducir Musica, Activar/Desactivar Wifi, entre otros.
 
 <img src="https://github.com/JRIC2002/Droid-Info/blob/master/.Screenshots/Droid-Info_screenshot.jpg" width="100%"/>
