@@ -1,19 +1,22 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!/usr/bin/env bash
 
-# [*] Name of the Script: Droid-Info
-# [*] Description: "See More Information About the Operating System"
-# [*] Author: JRIC2002
-# [*] Date: 14/12/2018
+#[*] Name of the Script: Droid-Info
+#[*] Description: "See More Information About the Operating System"
+#[*] Version: 2.0
+#[*] Author: JRIC2002
+#[*] Installer of the tool: Droid-Info
+#[*] Date of creation: 14/12/2018
+#[*] Date of last update: 30/04/2020
 
 #COLORS
-        export black='\033[1;30m'
-        export red='\033[1;31m'
-        export green='\033[1;32m'
-        export yellow='\033[1;33m'
-        export blue='\033[1;34m'
-        export magenta='\033[1;35m'
-        export cyan='\033[1;36m'
-        export white='\033[0m'
+black='\033[1;30m'
+red='\033[1;31m'
+green='\033[1;32m'
+yellow='\033[1;33m'
+blue='\033[1;34m'
+magenta='\033[1;35m'
+cyan='\033[1;36m'
+white='\033[0m'
 
 #INSTALACION DE PAQUETES
 
