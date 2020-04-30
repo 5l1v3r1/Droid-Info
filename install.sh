@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-#[*] Name of the Script: Droid-Info
+#[*] Name of the script: Droid-Info
 #[*] Description: "See More Information About the Operating System"
 #[*] Version: 2.0
 #[*] Author: JRIC2002
-#[*] Installer of the tool: Droid-Info
+#[*] Installer of the script: Droid-Info
 #[*] Date of creation: 14/12/2018
 #[*] Date of last update: 30/04/2020
 
